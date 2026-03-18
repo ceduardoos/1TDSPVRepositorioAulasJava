@@ -24,7 +24,19 @@ public class ExemploOperadoresAritimeticos {
         y *= x;
         System.out.println("Y é: " + y);//0
 
-
+        //  Operador Função
+        //  + Adição
+        //  - Subtração
+        //  * Multiplicação
+        // Divisão
+        //  % Módulo (resto de divisão)
+        //  ++ Incremento
+        //  -- Decremento
+        //  += Atribuição aditiva
+        //  -= Atribuição subtrativa
+        //  *= Atribuição multiplicativa
+        //  = Atribuição de divisão
+        //  %= Atribuição de módulo
 
 
     }//main
